@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\obj\Debug\Assignment1_SQA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\bin\Debug\Assignment1_SQA.exe.config
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\bin\Debug\Assignment1_SQA.exe
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\bin\Debug\Assignment1_SQA.pdb
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\obj\Debug\Assignment1_SQA.exe
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\obj\Debug\Assignment1_SQA.pdb
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\bin\Debug\nunit.framework.dll
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\obj\Debug\Assignment1_SQA.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Assignment1_SQA\Assignment1_SQA\obj\Debug\Assignment1_SQA.csprojAssemblyReference.cache
